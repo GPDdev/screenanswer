@@ -6,3 +6,5 @@ dist/
 *.spec
 config.json
 test-artifacts/
+.publish/
+.readme-checkpoint-*.md
